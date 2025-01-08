@@ -8,3 +8,6 @@ When they initialized VM-UNET with VMamba-T and VMamba-S pre-trained weights, th
 Discussions on pre-trained weights for satellite image classification: [https://gis.stackexchange.com/questions/361890/pre-trained-transfer-learning-models-for-satellite-image-classification]
 
 Some tensorflow [pre-trained weights](https://bigearth.net/)?
+
+
+(https://github.com/microsoft/torchgeo)
