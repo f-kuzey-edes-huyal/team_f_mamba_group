@@ -12,4 +12,4 @@ Some tensorflow [pre-trained weights](https://bigearth.net/)?
 
 (https://github.com/microsoft/torchgeo)
 
-The code they provided on their GitHub was designed for a Linux environment. I have spent hours trying to reconstruct the environment but am still encountering errors.
+The [code](https://github.com/JCruan519/VM-UNet) they provided on their GitHub was designed for a Linux environment. I have spent hours trying to reconstruct the environment but am still encountering errors.
