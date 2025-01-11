@@ -26,8 +26,19 @@ One important aspect to consider is which CUDA Toolkit version to use. I encount
 
 Initially, I installed the CUDA Toolkit and then proceeded to download other packages. 
 
+
+
+
 ```conda init```
 
 ```exec $SHELL```
 
 ```conda activate vmunet```
+
+__Regarding the group meeting:__
+
+ -We need to resize our input images to 128×128×12.
+- Triton may be installed if a higher version of Python is used, as Dorathea shared the link (the Python version for VM-UNET is 3.8).
+- Our group will make a presentation next week. I have divided the sections across five dates and shared the details in the team-F channel (thanks to @Anum for suggestion).
+- I also added the Google Slides link.
+- Isabella has also successfully constructed the environment for VM-UNET, so if we get stuck, we can reach out to her for assistance.
