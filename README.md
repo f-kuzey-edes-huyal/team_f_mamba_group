@@ -45,7 +45,7 @@ __Regarding the group meeting:__
 - I also added the Google Slides link.
 - Isabella has also successfully constructed the environment for VM-UNET, so if we get stuck, we can reach out to her for assistance.
 
-```cd /mnt/d/VM-UNet```
+```cd /mnt/c/Users/Kuzey/VM-Unet```
 
 __Error!!!__ ```Could not load library libcudnn_cnn_infer.so.8. Error: libcuda.so: cannot open shared object file: No such file or directory```
 
