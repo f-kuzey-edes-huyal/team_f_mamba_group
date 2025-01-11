@@ -25,3 +25,9 @@ I believe I’ve successfully created the VM-UNet environment. As far as I under
 One important aspect to consider is which CUDA Toolkit version to use. I encountered issues where some code was consuming too much disk space. Using conda install nvidia/label/cuda-11.8.0::cuda-toolkit helped me resolve some of that.
 
 Initially, I installed the CUDA Toolkit and then proceeded to download other packages. 
+
+```conda init```
+
+```exec $SHELL```
+
+```conda activate vmunet```
