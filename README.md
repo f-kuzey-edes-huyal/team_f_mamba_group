@@ -42,3 +42,5 @@ __Regarding the group meeting:__
 - Our group will make a presentation next week. I have divided the sections across five dates and shared the details in the team-F channel (thanks to @Anum for suggestion).
 - I also added the Google Slides link.
 - Isabella has also successfully constructed the environment for VM-UNET, so if we get stuck, we can reach out to her for assistance.
+
+```cd /mnt/d/VM-UNet```
