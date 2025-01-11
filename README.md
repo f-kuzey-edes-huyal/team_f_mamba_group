@@ -46,3 +46,4 @@ __Regarding the group meeting:__
 - Isabella has also successfully constructed the environment for VM-UNET, so if we get stuck, we can reach out to her for assistance.
 
 ```cd /mnt/d/VM-UNet```
+[Could not load library libcudnn_cnn_infer.so.8. Error: libcuda.so: cannot open shared object file: No such file or directory](https://discuss.pytorch.org/t/libcudnn-cnn-infer-so-8-library-can-not-found/164661)
