@@ -17,3 +17,11 @@ The [code](https://github.com/JCruan519/VM-UNet) they provided on their GitHub w
 [VisionMamba](https://github.com/kyegomez/VisionMamba)
 
 ```https://anaconda.org/nvidia/cuda-toolkit```
+
+
+
+I believe I’ve successfully created the VM-UNet environment. As far as I understand, we need a Linux environment to run this version, and it seems all other Mamba versions require this too. I created the environment using WSL.
+
+One important aspect to consider is which CUDA Toolkit version to use. I encountered issues where some code was consuming too much disk space. Using conda install nvidia/label/cuda-11.8.0::cuda-toolkit helped me resolve some of that.
+
+Initially, I installed the CUDA Toolkit and then proceeded to download other packages. 
