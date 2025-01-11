@@ -26,6 +26,8 @@ One important aspect to consider is which CUDA Toolkit version to use. I encount
 
 Initially, I installed the CUDA Toolkit and then proceeded to download other packages. 
 
+https://zenodo.org/records/13743856
+
 
 
 
