@@ -16,4 +16,4 @@ The [code](https://github.com/JCruan519/VM-UNet) they provided on their GitHub w
 
 [VisionMamba](https://github.com/kyegomez/VisionMamba)
 
-```https://www.gpu-mart.com/blog/install-nvidia-cuda-11-on-ubuntu```
+```https://anaconda.org/nvidia/cuda-toolkit```
