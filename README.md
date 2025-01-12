@@ -53,4 +53,6 @@ The code ilne provided in the [link](https://discuss.pytorch.org/t/libcudnn-cnn-
 
 __Error!!!__ ```torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 48.00 MiB (GPU 0; 6.00 GiB total capacity; 5.25 GiB already allocated; 0 bytes free; 5.34 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF```
 
+Decreasing the batch size and resizing images to 128×128 solved the problem!
+
 ![](https://github.com/f-kuzey-edes-huyal/team_f_mamba_group/blob/main/figures/visual_mamba_unet_first_run.png)
