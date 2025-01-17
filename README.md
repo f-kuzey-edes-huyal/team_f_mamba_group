@@ -56,3 +56,15 @@ __Error!!!__ ```torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to alloca
 Decreasing the batch size and resizing images to 128×128 solved the problem!
 
 ![](https://github.com/f-kuzey-edes-huyal/team_f_mamba_group/blob/main/figures/visual_mamba_unet_first_run.png)
+
+__Notes from the meeting with Anum, Kuzey, Verena, and Dorothea:__
+
+- Kuzey gave a presentation on how she installed ```VM-UNET``` and discussed the challenges she faced during the process.
+
+- Anum asked whether it would be possible to create an environment that does not require a GPU and mentioned she would attempt to construct such an environment.
+
+- Dorothea suggested exploring other ```Mamba``` versions that might not depend on ```Triton``` and could potentially run in a Windows environment. She also proposed checking for ```Mamba``` versions that do not require a GPU and recommended using Kaggle notebooks for running the code( which needs GPU).
+  
+- Anum and Kuzey noted that their primary experience has been with Google Colab, where the GPU runtime often stops after some time, which can disrupt the workflow.
+
+- Verena will update the team if her team manages to run the environment successfully on a Windows system.
