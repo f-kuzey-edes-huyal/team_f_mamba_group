@@ -68,3 +68,7 @@ __Notes from the meeting with Anum, Kuzey, Verena, and Dorothea:__
 - Anum and Kuzey noted that their primary experience has been with Google Colab, where the GPU runtime often stops after some time, which can disrupt the workflow.
 
 - Verena will update the team if her team manages to run the environment successfully on a Windows system.
+
+Farewell, Team F
+As we are now combining with the other Mamba team, I will be transitioning away from this repository.
+Thank you all for the collaboration leading up to our presentation and for the time and effort you contributed. It was a pleasure working together, and we accomplished great things as a team!
